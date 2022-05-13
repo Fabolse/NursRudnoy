@@ -293,7 +293,7 @@ h1, h2, h3, h4, h5, h6 {
 .animal img {
   float: left;
   height: 350px;
-  width: 320px;
+  width: 300px;
 }
 
 .animal img:last-child {
